@@ -2,17 +2,17 @@
 
 ```javascript
 const AboutMe = {
-    name: 'Rhys Haines',
-    located_in: 'Leeds, England',
-    from: 'Leeds, England',
-    job: 'Software Engineer',
-    company: 'Sky',
-    hobbies: ["Basketball", "Cinema", "Competitive Gaming"]
-}
+  name: "Rhys Haines",
+  located_in: "Leeds, England",
+  from: "Leeds, England",
+  job: "Software Engineer",
+  company: "Sky",
+  hobbies: ["Basketball", "Cinema", "Competitive Gaming"],
+};
 ```
 
+## Technical Skills
 
-### Technical Skills
 <p align='center'>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -32,11 +32,10 @@ const AboutMe = {
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<a href="https://github.com/HainesR11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HainesR11&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rhys Haines'github stats" /></a>
+<a href="https://github.com/HainesR11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HainesR11&layout=compact&theme=buefy&hide_border=true" /></a>
 
-| <a href="https://github.com/HainesR11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HainesR11&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rhys Haines'github stats" /></a> | <a href="https://github.com/HainesR11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HainesR11&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
+## Top Repositories
 
 <a href="https://github.com/HainesR11/DevNotion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HainesR11&repo=DevNotion&theme=buefy" />
@@ -46,8 +45,7 @@ const AboutMe = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HainesR11&repo=DevNotion-Node-Service&theme=buefy" />
 </a>
 
-### Now Playing 🎧
+## Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1171357187&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>
----
